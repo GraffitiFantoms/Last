@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d4abd28-5697-483b-b87b-a7869f0777f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zkah3kdlWKJ8SJR0hIbgFWilsc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TESTs/1.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.21118012" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ButtleArenaGame" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ButtleArena" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\ButtleArena\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ButtleArenaGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d4abd28-5697-483b-b87b-a7869f0777f8" name="Default Changelist" comment="" />
+      <created>1585385661175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585385661175</updated>
+      <workItem from="1585385662683" duration="8163000" />
+      <workItem from="1585409733224" duration="144000" />
+      <workItem from="1585414064825" duration="753000" />
+      <workItem from="1585494816914" duration="10000" />
+      <workItem from="1585495220404" duration="17000" />
+      <workItem from="1585495345730" duration="2111000" />
+      <workItem from="1585497482249" duration="121000" />
+      <workItem from="1585574775484" duration="724000" />
+      <workItem from="1585575520552" duration="910000" />
+      <workItem from="1585584639107" duration="2610000" />
+      <workItem from="1585592999772" duration="2171000" />
+      <workItem from="1585596573363" duration="354000" />
+      <workItem from="1585600555032" duration="784000" />
+      <workItem from="1585641378568" duration="3734000" />
+      <workItem from="1585654045232" duration="1725000" />
+      <workItem from="1585658283827" duration="4199000" />
+      <workItem from="1585748113683" duration="3694000" />
+      <workItem from="1585758458636" duration="2173000" />
+      <workItem from="1585827041479" duration="3560000" />
+      <workItem from="1585832307379" duration="2448000" />
+      <workItem from="1585850226367" duration="3095000" />
+      <workItem from="1585906891532" duration="3842000" />
+      <workItem from="1585919040670" duration="6763000" />
+      <workItem from="1585941226420" duration="6481000" />
+      <workItem from="1585992246013" duration="907000" />
+      <workItem from="1585999407992" duration="5071000" />
+      <workItem from="1586019632909" duration="900000" />
+      <workItem from="1586020610285" duration="2277000" />
+      <workItem from="1586105476313" duration="2595000" />
+      <workItem from="1586112206992" duration="1080000" />
+      <workItem from="1586164316654" duration="3666000" />
+      <workItem from="1586246629587" duration="4703000" />
+      <workItem from="1586268514655" duration="1928000" />
+      <workItem from="1586350557042" duration="189000" />
+      <workItem from="1586350759940" duration="2313000" />
+      <workItem from="1586372898380" duration="2777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585759468536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585386045954" />
+    <state x="154" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585759468536" />
+    <state x="918" y="166" width="490" height="515" key="#xdebugger.evaluate" timestamp="1585834623859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-47" y="129" width="490" height="515" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1585386604119" />
+    <state x="918" y="166" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1585834623859" />
+    <state width="553" height="466" key="DebuggerActiveHint" timestamp="1585386386768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="553" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1585386386768" />
+    <state x="521" y="135" key="FileChooserDialogImpl" timestamp="1586375849735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585386026840" />
+    <state x="521" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586375849735" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1586273641723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585414817303" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586273641723" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1586273641723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585414817303" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586273641723" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1586273641723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585414817303" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586273641723" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1586273641723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585414817303" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586273641723" />
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom" timestamp="1586018680419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585406738467" />
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586018680419" />
+    <state width="1493" height="212" key="GridCell.Tab.1.center" timestamp="1586018680418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585406738467" />
+    <state width="1493" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586018680418" />
+    <state width="1493" height="212" key="GridCell.Tab.1.left" timestamp="1586018680418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585406738467" />
+    <state width="1493" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586018680418" />
+    <state width="1493" height="212" key="GridCell.Tab.1.right" timestamp="1586018680419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585406738467" />
+    <state width="1493" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586018680419" />
+    <state x="207" y="7" key="SettingsEditor" timestamp="1586375857337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585385811737" />
+    <state x="207" y="7" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586375857337" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585497489876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585497489876" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ButtleArena$ButtleArenaGame.coverage" NAME="ButtleArenaGame Coverage Results" MODIFIED="1586268703894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
